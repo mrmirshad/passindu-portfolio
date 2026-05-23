@@ -118,9 +118,9 @@ const Nav = () => {
                   ))}
                 </nav>
                 <div className="px-6 pb-10 pt-6 border-t border-border space-y-4">
-                  <a href="mailto:hello@pasinduukwatta.com" className="flex items-center gap-3 text-sm text-ink-soft hover:text-ink transition-colors">
+                  <a href="mailto:Ukwatta24@gmail.com" className="flex items-center gap-3 text-sm text-ink-soft hover:text-ink transition-colors">
                     <Mail className="w-4 h-4 text-bronze" />
-                    hello@pasinduukwatta.com
+                    Ukwatta24@gmail.com
                   </a>
                   <div className="text-[11px] uppercase tracking-[0.25em] text-muted-foreground font-mono-tight">
                     Colombo · Available worldwide
@@ -924,16 +924,16 @@ const Contact = () => (
           worth <em className="italic text-bronze-soft">telling?</em>
         </h2>
         <a
-          href="mailto:hello@pasinduukwatta.com"
+          href="mailto:Ukwatta24@gmail.com"
           className="inline-flex items-center gap-3 md:gap-4 mt-8 md:mt-12 text-base md:text-lg lg:text-2xl border-b border-cream/40 pb-2 hover:border-bronze-soft hover:text-bronze-soft transition-colors duration-500 font-display italic"
         >
-          hello@pasinduukwatta.com
+          Ukwatta24@gmail.com
           <ArrowUpRight className="w-5 h-5 md:w-6 md:h-6" />
         </a>
       </div>
       <div className="md:col-span-4 space-y-4 md:space-y-6 text-sm">
         {[
-          { I: Mail, t: "hello@pasinduukwatta.com", h: "mailto:hello@pasinduukwatta.com" },
+          { I: Mail, t: "Ukwatta24@gmail.com", h: "mailto:Ukwatta24@gmail.com" },
           { I: Phone, t: "0772747504", h: "tel:+94770000000" },
           { I: Linkedin, t: "linkedin.com/in/pasindu-ukwatta", h: "https://www.linkedin.com/in/pasindu-ukwatta-956020185" },
           { I: MapPin, t: "Colombo · Available worldwide", h: "#" },
