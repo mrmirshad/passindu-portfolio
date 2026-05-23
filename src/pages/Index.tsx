@@ -934,8 +934,8 @@ const Contact = () => (
       <div className="md:col-span-4 space-y-4 md:space-y-6 text-sm">
         {[
           { I: Mail, t: "hello@pasinduukwatta.com", h: "mailto:hello@pasinduukwatta.com" },
-          { I: Phone, t: "+94 77 000 0000", h: "tel:+94770000000" },
-          { I: Linkedin, t: "linkedin.com/in/pasinduukwatta", h: "#" },
+          { I: Phone, t: "0772747504", h: "tel:+94770000000" },
+          { I: Linkedin, t: "linkedin.com/in/pasindu-ukwatta", h: "https://www.linkedin.com/in/pasindu-ukwatta-956020185" },
           { I: MapPin, t: "Colombo · Available worldwide", h: "#" },
         ].map(({ I, t, h }) => (
           <a
